@@ -148,34 +148,14 @@
 
 ## 📚 เอกสารที่เกี่ยวข้อง | Related Documentation
 
-- **[Analysis & Design Document](analysis-design.md)** - เอกสารวิเคราะห์ความต้องการระบบแบบ SRS
-- **[System Architecture Diagram](UseCase.png)** - แผนสัญญาณการใช้งาน (Use Case Diagram)
+- **[Analysis & Design Document](analysis-design.md)** - เอกสารวิเคราะห์ความต้องการระบบ
+- **[Diagram](diagramPage.html)** - แผนสัญญาณการใช้งาน (Use Case Diagram)
 - **[Wireframe (Figma)](https://www.figma.com/proto/kh82F4HpUsVW9bLbcui8wI/wire-freme-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD?node-id=30-2&t=59OMux8jmrkyYX9p-1)** - โครงร่างหน้าจอทุกหน้าในระบบ
 
 ---
 
-## 🚀 วิธีการใช้งาน | How to Use
-
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/Hiukhaw/Workshop-1.git
-   cd Workshop-1
-   ```
-
-2. **ดูเอกสารในระบบ**
-   - เปิด `index.html` ในเบราว์เซอร์
-   - หรือเข้าไปยัง GitHub Pages URL
-
-3. **ดูเอกสารสำหรับการวิเคราะห์**
-   - อ่าน `analysis-design.md` เพื่อเข้าใจรายละเอียด
-   - ดู `UseCase.png` สำหรับแผนภาพการใช้งาน
-
----
-
 ## 📞 ติดต่อ | Contact
-
-**Project Owner:** Priyaphat  
-**Email:** *(to be added)*  
+ 
 **GitHub:** [Hiukhaw](https://github.com/Hiukhaw)
 
 ---
