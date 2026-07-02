@@ -106,19 +106,10 @@
 ## 🧪 แนวทางการทดสอบระบบ | Testing Approach
 
 **ประเภทการทดสอบ (Test Types)**
-- [ ] Unit Testing
-- [ ] Functional Testing
-- [ ] API Testing
-- [ ] Performance Testing
-- [ ] Security Testing
 - [x] User Acceptance Testing (UAT)
 
 **เครื่องมือที่ใช้ (Tools)**
 - [x] Postman
-- [ ] JMeter
-- [ ] Selenium
-- [ ] Robot Framework
-- [ ] Appium
 - [x] อื่น ๆ — **Manual Testing**
 
 ---
